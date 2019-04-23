@@ -2,4 +2,41 @@ nav {
  color: wheat !important;
 }
 
+body {
+  background-color: #EDEDED;
+}
 
+/* Bootstrap overrides */
+.btn-primary {
+ background-color: #5F4B8B;
+ border: 1px solid #5F4B8B;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active {
+ background-color: #403F42 !important;
+ border: 1px solid #403F42;
+}
+
+.card {
+ margin-top: 1.5em;
+}
+
+.jumbotron {
+  padding: 0em;
+  background: transparent;
+}
+
+/* Eigen globale classes */
+.colored-link, .colored-link:hover {
+  color: #5F4B8B;
+}
+
+.section-header {
+ font-size: 1.5rem;
+ font-weight: 400;
+ line-height: 1.2;
+}
+
+.home-section {
+  margin-top: 2em;
+}
