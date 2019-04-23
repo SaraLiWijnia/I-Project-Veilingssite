@@ -18,14 +18,14 @@
                 <img class="logo" src="assets/images/alleen-logo.png" alt="logo EenmaalAndermaal" width="70" height="70">
                 EenmaalAndermaal
             </a>
-
+            
             <form class="form-inline my-2 my-lg-0">
                 <input class="form-control mr-sm-2" type="search" placeholder="Zoeken" aria-label="Search">
                 <button class="btn btn-outline-success my-2 my-sm-0" type="submit"><i class="fas fa-search"></i></button>
             </form>
 
             <div class="btn-group">
-                <button class="btn btn-secondary btn-lg dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                <button class="btn btn-primary btn-lg dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     Mijn Account
                 </button>
                 <div class="dropdown-menu">
